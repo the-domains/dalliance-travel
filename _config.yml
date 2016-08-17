@@ -12,4 +12,8 @@ color:
     - '#762B04'
 layout_spectrum: 0.47230149898678064
 name: Dalliance Travel
+navigation:
+  - name: Location
+    url: 'http://www.mascorbella.com/?page_id=440'
+    type: external
 description: Fun in the sun
