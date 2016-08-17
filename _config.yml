@@ -1,4 +1,3 @@
-layout_spectrum: 0.47230149898678064
 typography_spectrum: 0.4166609509848058
 color:
   brandStrength: 0.44652507710270584
@@ -11,4 +10,6 @@ color:
     - '#FBFBFB'
     - '#93836A'
     - '#762B04'
+layout_spectrum: 0.47230149898678064
 name: Dalliance Travel
+description: Fun in the sun
